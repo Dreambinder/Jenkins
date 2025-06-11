@@ -7,6 +7,4 @@ pipeline {
                 sh 'echo "Build Complete"'
             }
         }
-    }
-
-}
+    
